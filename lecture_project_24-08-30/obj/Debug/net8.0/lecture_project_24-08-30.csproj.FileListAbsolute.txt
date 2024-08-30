@@ -12,3 +12,4 @@
 /Users/rasmuslundgren/Development/Education/Newton/Projects/OPG/my repos/lecture projects/lecture_project_24-08-30/obj/Debug/net8.0/lecture_project_24-08-30.pdb
 /Users/rasmuslundgren/Development/Education/Newton/Projects/OPG/my repos/lecture projects/lecture_project_24-08-30/obj/Debug/net8.0/lecture_project_24-08-30.genruntimeconfig.cache
 /Users/rasmuslundgren/Development/Education/Newton/Projects/OPG/my repos/lecture projects/lecture_project_24-08-30/obj/Debug/net8.0/ref/lecture_project_24-08-30.dll
+/Users/rasmuslundgren/Development/Education/Newton/Projects/OPG/my repos/lecture projects/lecture_project_24-08-30/obj/Debug/net8.0/lecture_project_24-08-30.sourcelink.json
